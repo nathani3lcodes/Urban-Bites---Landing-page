@@ -1,3 +1,5 @@
+<img width="1920" height="1440" alt="28shots_so" src="https://github.com/user-attachments/assets/b1603c00-2fe8-4e9a-89ea-ad3acb34a902" />
+
 # UrbanBites Restaurant Landing Page
 
 A modern, animated, and responsive restaurant landing page built with React, TypeScript, Vite, and Tailwind CSS.
